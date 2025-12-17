@@ -1,4 +1,4 @@
-baseURL = 'https://username.github.io/repo-name/'
+baseURL = 'https://hanwo-ol.github.io/playground/'
 languageCode = 'en-us'
 title = 'U-Net Reviews'
 theme = 'PaperMod'

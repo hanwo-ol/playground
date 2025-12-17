@@ -2,98 +2,98 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Medical Imaging on U-Net Reviews</title>
-    <link>https://username.github.io/repo-name/tags/medical-imaging/</link>
+    <link>https://hanwo-ol.github.io/playground/tags/medical-imaging/</link>
     <description>Recent content in Medical Imaging on U-Net Reviews</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Dec 2025 18:12:44 +0000</lastBuildDate><atom:link href="https://username.github.io/repo-name/tags/medical-imaging/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Dec 2025 18:12:44 +0000</lastBuildDate><atom:link href="https://hanwo-ol.github.io/playground/tags/medical-imaging/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Robust Training of Singing Voice Synthesis Using Prior and Posterior Uncertainty</title>
-      <link>https://username.github.io/repo-name/posts/robust-training-of-singing-voice-synthesis-using-prior-and-posterior-uncertainty/</link>
+      <link>https://hanwo-ol.github.io/playground/posts/robust-training-of-singing-voice-synthesis-using-prior-and-posterior-uncertainty/</link>
       <pubDate>Tue, 16 Dec 2025 18:12:44 +0000</pubDate>
 
-      <guid>https://username.github.io/repo-name/posts/robust-training-of-singing-voice-synthesis-using-prior-and-posterior-uncertainty/</guid>
+      <guid>https://hanwo-ol.github.io/playground/posts/robust-training-of-singing-voice-synthesis-using-prior-and-posterior-uncertainty/</guid>
       <description>📝 Abstract Singing voice synthesis (SVS) has seen remarkable advancements in recent years. However, compared to speech and general audio data, publicly available singing datasets remain limited. In practice, this data scarcity often leads to performance degradation in long-tail scenarios, such as imbalanced pitch distributions or rare singing styles. To mitigate these challenges, we propose uncertainty-based optimization to improve the training process of end-to-end SVS models. First, we introduce differentiable data augmentation in the adversarial training, which operates in a sample-wise manner to increase the prior uncertainty.</description>
     </item>
 
     <item>
       <title>Segmental Attention Decoding With Long Form Acoustic Encodings</title>
-      <link>https://username.github.io/repo-name/posts/segmental-attention-decoding-with-long-form-acoustic-encodings/</link>
+      <link>https://hanwo-ol.github.io/playground/posts/segmental-attention-decoding-with-long-form-acoustic-encodings/</link>
       <pubDate>Tue, 16 Dec 2025 18:12:37 +0000</pubDate>
 
-      <guid>https://username.github.io/repo-name/posts/segmental-attention-decoding-with-long-form-acoustic-encodings/</guid>
+      <guid>https://hanwo-ol.github.io/playground/posts/segmental-attention-decoding-with-long-form-acoustic-encodings/</guid>
       <description>📝 Abstract We address the fundamental incompatibility of attention-based encoder-decoder (AED) models with long-form acoustic encodings. AED models trained on segmented utterances learn to encode absolute frame positions by exploiting limited acoustic context beyond segment boundaries, but fail to generalize when decoding long-form segments where these cues vanish. The model loses ability to order acoustic encodings due to permutation invariance of keys and values in cross-attention. We propose four modifications: (1) injecting explicit absolute positional encodings into cross-attention for each decoded segment, (2) long-form training with extended acoustic context to eliminate implicit absolute position encoding, (3) segment concatenation to cover diverse segmentations needed during training, and (4) semantic segmentation to align AED-decoded segments with training segments.</description>
     </item>
 
     <item>
       <title>Adaptable Segmentation Pipeline for Diverse Brain Tumors with Radiomic-guided Subtyping and Lesion-Wise Model Ensemble</title>
-      <link>https://username.github.io/repo-name/posts/adaptable-segmentation-pipeline-for-diverse-brain-tumors-with-radiomic-guided-subtyping-and-lesion-wise-model-ensemble/</link>
+      <link>https://hanwo-ol.github.io/playground/posts/adaptable-segmentation-pipeline-for-diverse-brain-tumors-with-radiomic-guided-subtyping-and-lesion-wise-model-ensemble/</link>
       <pubDate>Tue, 16 Dec 2025 18:09:48 +0000</pubDate>
 
-      <guid>https://username.github.io/repo-name/posts/adaptable-segmentation-pipeline-for-diverse-brain-tumors-with-radiomic-guided-subtyping-and-lesion-wise-model-ensemble/</guid>
+      <guid>https://hanwo-ol.github.io/playground/posts/adaptable-segmentation-pipeline-for-diverse-brain-tumors-with-radiomic-guided-subtyping-and-lesion-wise-model-ensemble/</guid>
       <description>📝 Abstract Robust and generalizable segmentation of brain tumors on multi-parametric magnetic resonance imaging (MRI) remains difficult because tumor types differ widely. The BraTS 2025 Lighthouse Challenge benchmarks segmentation methods on diverse high-quality datasets of adult and pediatric tumors: multi-consortium international pediatric brain tumor segmentation (PED), preoperative meningioma tumor segmentation (MEN), meningioma radiotherapy segmentation (MEN-RT), and segmentation of pre- and post-treatment brain metastases (MET). We present a flexible, modular, and adaptable pipeline that improves segmentation performance by selecting and combining state-of-the-art models and applying tumor- and lesion-specific processing before and after training.</description>
     </item>
 
     <item>
       <title>AMD-HookNet&#43;&#43;: Evolution of AMD-HookNet with Hybrid CNN-Transformer Feature Enhancement for Glacier Calving Front Segmentation</title>
-      <link>https://username.github.io/repo-name/posts/amd-hooknet-evolution-of-amd-hooknet-with-hybrid-cnn-transformer-feature-enhancement-for-glacier-calving-front-segmentation/</link>
+      <link>https://hanwo-ol.github.io/playground/posts/amd-hooknet-evolution-of-amd-hooknet-with-hybrid-cnn-transformer-feature-enhancement-for-glacier-calving-front-segmentation/</link>
       <pubDate>Tue, 16 Dec 2025 17:57:52 +0000</pubDate>
 
-      <guid>https://username.github.io/repo-name/posts/amd-hooknet-evolution-of-amd-hooknet-with-hybrid-cnn-transformer-feature-enhancement-for-glacier-calving-front-segmentation/</guid>
+      <guid>https://hanwo-ol.github.io/playground/posts/amd-hooknet-evolution-of-amd-hooknet-with-hybrid-cnn-transformer-feature-enhancement-for-glacier-calving-front-segmentation/</guid>
       <description>📝 Abstract The dynamics of glaciers and ice shelf fronts significantly impact the mass balance of ice sheets and coastal sea levels. To effectively monitor glacier conditions, it is crucial to consistently estimate positional shifts of glacier calving fronts. AMD-HookNet firstly introduces a pure two-branch convolutional neural network (CNN) for glacier segmentation. Yet, the local nature and translational invariance of convolution operations, while beneficial for capturing low-level details, restricts the model ability to maintain long-range dependencies.</description>
     </item>
 
     <item>
       <title>LLmFPCA-detect: LLM-powered Multivariate Functional PCA for Anomaly Detection in Sparse Longitudinal Texts</title>
-      <link>https://username.github.io/repo-name/posts/llmfpca-detect-llm-powered-multivariate-functional-pca-for-anomaly-detection-in-sparse-longitudinal-texts/</link>
+      <link>https://hanwo-ol.github.io/playground/posts/llmfpca-detect-llm-powered-multivariate-functional-pca-for-anomaly-detection-in-sparse-longitudinal-texts/</link>
       <pubDate>Tue, 16 Dec 2025 17:14:10 +0000</pubDate>
 
-      <guid>https://username.github.io/repo-name/posts/llmfpca-detect-llm-powered-multivariate-functional-pca-for-anomaly-detection-in-sparse-longitudinal-texts/</guid>
+      <guid>https://hanwo-ol.github.io/playground/posts/llmfpca-detect-llm-powered-multivariate-functional-pca-for-anomaly-detection-in-sparse-longitudinal-texts/</guid>
       <description>📝 Abstract Sparse longitudinal (SL) textual data arises when individuals generate text repeatedly over time (e.g., customer reviews, occasional social media posts, electronic medical records across visits), but the frequency and timing of observations vary across individuals. These complex textual data sets have immense potential to inform future policy and targeted recommendations. However, because SL text data lack dedicated methods and are noisy, heterogeneous, and prone to anomalies, detecting and inferring key patterns is challenging.</description>
     </item>
 
     <item>
       <title>Towards Nepali-language LLMs: Efficient GPT training with a Nepali BPE tokenizer</title>
-      <link>https://username.github.io/repo-name/posts/towards-nepali-language-llms-efficient-gpt-training-with-a-nepali-bpe-tokenizer/</link>
+      <link>https://hanwo-ol.github.io/playground/posts/towards-nepali-language-llms-efficient-gpt-training-with-a-nepali-bpe-tokenizer/</link>
       <pubDate>Tue, 16 Dec 2025 16:53:11 +0000</pubDate>
 
-      <guid>https://username.github.io/repo-name/posts/towards-nepali-language-llms-efficient-gpt-training-with-a-nepali-bpe-tokenizer/</guid>
+      <guid>https://hanwo-ol.github.io/playground/posts/towards-nepali-language-llms-efficient-gpt-training-with-a-nepali-bpe-tokenizer/</guid>
       <description>📝 Abstract Nepali, a low-resource language spoken by over 32 million people, continues to face challenges in natural language processing (NLP) due to its complex grammar, agglutinative morphology, and limited availability of high-quality corpora. Most efforts to date have centered on basic encoder architectures; they remain insufficient for Nepali-specific text generation. This study presents a GPT-2-based Nepali language model trained using several training strategies inspired by GPT-3, including optimized learning rate schedules, batch scaling, and architectural refinements.</description>
     </item>
 
     <item>
       <title>Limit profiles of ASEP</title>
-      <link>https://username.github.io/repo-name/posts/limit-profiles-of-asep/</link>
+      <link>https://hanwo-ol.github.io/playground/posts/limit-profiles-of-asep/</link>
       <pubDate>Tue, 16 Dec 2025 16:52:11 +0000</pubDate>
 
-      <guid>https://username.github.io/repo-name/posts/limit-profiles-of-asep/</guid>
+      <guid>https://hanwo-ol.github.io/playground/posts/limit-profiles-of-asep/</guid>
       <description>📝 Abstract We study the asymmetric simple exclusion process (ASEP) on a segment ${1,\ldots,b_N}$ and are interested in its total variation distance to equilibrium when started from an initial configuration $ξ^{N}$. We provide a general result which gives the cutoff window and profile whenever a KPZ-type limit theorem is available for an extension of $ξ^{N}$ to $\mathbb{Z}$. We apply this result to obtain the cutoff window and profile of ASEP on the segment with flat, half-flat and step initial data.</description>
     </item>
 
     <item>
       <title>Excursions in Sylvester-Gallai land</title>
-      <link>https://username.github.io/repo-name/posts/excursions-in-sylvester-gallai-land/</link>
+      <link>https://hanwo-ol.github.io/playground/posts/excursions-in-sylvester-gallai-land/</link>
       <pubDate>Tue, 16 Dec 2025 15:53:58 +0000</pubDate>
 
-      <guid>https://username.github.io/repo-name/posts/excursions-in-sylvester-gallai-land/</guid>
+      <guid>https://hanwo-ol.github.io/playground/posts/excursions-in-sylvester-gallai-land/</guid>
       <description>📝 Abstract The Sylvester-Gallai theorem states that for a finite set of points in the plane, if every line determined by any two of these points also contains a third, then the set is necessarily made of collinear points. In this paper, we first provide a counterexample in the plane when the point set is countably infinite but bounded. Then we consider a variant of the Sylvester-Gallai theorem where instead of a finite point set we have a finite family of convex sets in $\mathbb{R}^d$ ($d\geq 2$).</description>
     </item>
 
     <item>
       <title>How Spatially Modulated Activity Reshapes Active Polymer Conformations</title>
-      <link>https://username.github.io/repo-name/posts/how-spatially-modulated-activity-reshapes-active-polymer-conformations/</link>
+      <link>https://hanwo-ol.github.io/playground/posts/how-spatially-modulated-activity-reshapes-active-polymer-conformations/</link>
       <pubDate>Tue, 16 Dec 2025 15:11:08 +0000</pubDate>
 
-      <guid>https://username.github.io/repo-name/posts/how-spatially-modulated-activity-reshapes-active-polymer-conformations/</guid>
+      <guid>https://hanwo-ol.github.io/playground/posts/how-spatially-modulated-activity-reshapes-active-polymer-conformations/</guid>
       <description>📝 Abstract Active polymers are driven out of equilibrium by internal forces and exhibit conformational properties that differ fundamentally from those of passive chains. Here we study how spatially modulated tangential activity reshapes the conformations of semiflexible polymers. Using a continuum Rouse model with bending rigidity, we develop a systematic expansion in the limit of weak activity and derive analytical expressions for mode correlations, gyration radius, and end-to-end distance under sinusoidally varying propulsion.</description>
     </item>
 
     <item>
       <title>TACK Tunnel Data (TTD): A Benchmark Dataset for Deep Learning-Based Defect Detection in Tunnels</title>
-      <link>https://username.github.io/repo-name/posts/tack-tunnel-data-ttd-a-benchmark-dataset-for-deep-learning-based-defect-detection-in-tunnels/</link>
+      <link>https://hanwo-ol.github.io/playground/posts/tack-tunnel-data-ttd-a-benchmark-dataset-for-deep-learning-based-defect-detection-in-tunnels/</link>
       <pubDate>Tue, 16 Dec 2025 15:10:16 +0000</pubDate>
 
-      <guid>https://username.github.io/repo-name/posts/tack-tunnel-data-ttd-a-benchmark-dataset-for-deep-learning-based-defect-detection-in-tunnels/</guid>
+      <guid>https://hanwo-ol.github.io/playground/posts/tack-tunnel-data-ttd-a-benchmark-dataset-for-deep-learning-based-defect-detection-in-tunnels/</guid>
       <description>📝 Abstract Tunnels are essential elements of transportation infrastructure, but are increasingly affected by ageing and deterioration mechanisms such as cracking. Regular inspections are required to ensure their safety, yet traditional manual procedures are time-consuming, subjective, and costly. Recent advances in mobile mapping systems and Deep Learning (DL) enable automated visual inspections. However, their effectiveness is limited by the scarcity of tunnel datasets. This paper introduces a new publicly available dataset containing annotated images of three different tunnel linings, capturing typical defects: cracks, leaching, and water infiltration.</description>
     </item>
 
