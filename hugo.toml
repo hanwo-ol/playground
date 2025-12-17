@@ -1,0 +1,32 @@
+baseURL = 'https://username.github.io/repo-name/'
+languageCode = 'en-us'
+title = 'U-Net Reviews'
+theme = 'PaperMod'
+
+[params]
+  defaultTheme = "dark" # Default to dark mode
+  # Giscus Comments (will fill in placeholders)
+  comments = true
+
+  [params.assets]
+    favicon = "<link / url>"
+
+  # MathJax Support (PaperMod supports it natively via params)
+  math = true
+
+publishDir = "docs" # Output to docs/ for GitHub Pages manual deployment
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+  [markup.highlight]
+    noClasses = false
+
+# Enable search
+# [outputs] (Already defined above)
+#    home = ["HTML", "RSS", "JSON"]
